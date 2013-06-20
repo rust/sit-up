@@ -1,4 +1,4 @@
-KEY = ??
+KEY = 9
 
 def trans_table
   alphabets = ["A".."Z", "a".."z", "0".."9"].map{|r| r.to_a.join}
